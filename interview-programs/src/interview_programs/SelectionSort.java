@@ -1,6 +1,6 @@
 package interview_programs;
 
-public class InsertionSort {
+public class SelectionSort {
 	public static int[] n;
 
 	public static void main(String[] args) {
