@@ -1,2 +1,6 @@
 .metadata
+interview-programs/bin
+interview-programs/.settings
+interview-programs/.classpath
+interview-programs/.project
 *.class
