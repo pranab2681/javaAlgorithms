@@ -1,5 +1,5 @@
 .metadata
-/.settings
-/bin
-/.classpath
-/.project
+/interview-programs/.settings
+/interview-programs/bin/**
+/interview-programs/.classpath
+/interview-programs/.project
