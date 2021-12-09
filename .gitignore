@@ -1,5 +1,2 @@
 .metadata
-*.class
-*..prefs
-*.classpath
-*.project
+/interview-programs/**/bin
